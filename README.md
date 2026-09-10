@@ -19,6 +19,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/anithaanitha7803/leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/anithaanitha7803/leetcode/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/anithaanitha7803/leetcode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
+| [3467-transform-array-by-parity](https://github.com/anithaanitha7803/leetcode/tree/master/3467-transform-array-by-parity) |
 ## Binary Search
 |  |
 | ------- |
@@ -31,4 +32,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/anithaanitha7803/leetcode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
+## Sorting
+|  |
+| ------- |
+| [3467-transform-array-by-parity](https://github.com/anithaanitha7803/leetcode/tree/master/3467-transform-array-by-parity) |
+## Counting
+|  |
+| ------- |
+| [3467-transform-array-by-parity](https://github.com/anithaanitha7803/leetcode/tree/master/3467-transform-array-by-parity) |
 <!---LeetCode Topics End-->
