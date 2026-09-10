@@ -16,12 +16,14 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/anithaanitha7803/leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/anithaanitha7803/leetcode/tree/master/0081-search-in-rotated-sorted-array-ii) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/anithaanitha7803/leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/anithaanitha7803/leetcode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 ## Binary Search
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/anithaanitha7803/leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/anithaanitha7803/leetcode/tree/master/0081-search-in-rotated-sorted-array-ii) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/anithaanitha7803/leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/anithaanitha7803/leetcode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 ## Matrix
 |  |
