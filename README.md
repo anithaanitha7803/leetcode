@@ -58,9 +58,11 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Math
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/anithaanitha7803/leetcode/tree/master/0050-powx-n) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/anithaanitha7803/leetcode/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 ## Recursion
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/anithaanitha7803/leetcode/tree/master/0050-powx-n) |
 | [0206-reverse-linked-list](https://github.com/anithaanitha7803/leetcode/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->
