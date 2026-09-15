@@ -50,12 +50,14 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0160-intersection-of-two-linked-lists](https://github.com/anithaanitha7803/leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0206-reverse-linked-list](https://github.com/anithaanitha7803/leetcode/tree/master/0206-reverse-linked-list) |
+| [0234-palindrome-linked-list](https://github.com/anithaanitha7803/leetcode/tree/master/0234-palindrome-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/anithaanitha7803/leetcode/tree/master/0237-delete-node-in-a-linked-list) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/anithaanitha7803/leetcode/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 ## Two Pointers
 |  |
 | ------- |
 | [0160-intersection-of-two-linked-lists](https://github.com/anithaanitha7803/leetcode/tree/master/0160-intersection-of-two-linked-lists) |
+| [0234-palindrome-linked-list](https://github.com/anithaanitha7803/leetcode/tree/master/0234-palindrome-linked-list) |
 ## Math
 |  |
 | ------- |
@@ -66,10 +68,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0050-powx-n](https://github.com/anithaanitha7803/leetcode/tree/master/0050-powx-n) |
 | [0206-reverse-linked-list](https://github.com/anithaanitha7803/leetcode/tree/master/0206-reverse-linked-list) |
+| [0234-palindrome-linked-list](https://github.com/anithaanitha7803/leetcode/tree/master/0234-palindrome-linked-list) |
 ## Stack
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/anithaanitha7803/leetcode/tree/master/0020-valid-parentheses) |
+| [0234-palindrome-linked-list](https://github.com/anithaanitha7803/leetcode/tree/master/0234-palindrome-linked-list) |
 ## Bracket Sequences
 |  |
 | ------- |
