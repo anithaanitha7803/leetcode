@@ -21,6 +21,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/anithaanitha7803/leetcode/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0643-maximum-average-subarray-i](https://github.com/anithaanitha7803/leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/anithaanitha7803/leetcode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
+| [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/anithaanitha7803/leetcode/tree/master/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3467-transform-array-by-parity](https://github.com/anithaanitha7803/leetcode/tree/master/3467-transform-array-by-parity) |
 ## Binary Search
 |  |
@@ -88,4 +89,17 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0643-maximum-average-subarray-i](https://github.com/anithaanitha7803/leetcode/tree/master/0643-maximum-average-subarray-i) |
+| [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/anithaanitha7803/leetcode/tree/master/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
+## Bit Manipulation
+|  |
+| ------- |
+| [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/anithaanitha7803/leetcode/tree/master/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
+## Queue
+|  |
+| ------- |
+| [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/anithaanitha7803/leetcode/tree/master/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
+## Prefix Sum
+|  |
+| ------- |
+| [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/anithaanitha7803/leetcode/tree/master/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 <!---LeetCode Topics End-->
