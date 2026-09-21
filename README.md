@@ -13,6 +13,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0006-zigzag-conversion](https://github.com/anithaanitha7803/leetcode/tree/master/0006-zigzag-conversion) |
 | [0020-valid-parentheses](https://github.com/anithaanitha7803/leetcode/tree/master/0020-valid-parentheses) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/anithaanitha7803/leetcode/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
+| [1876-substrings-of-size-three-with-distinct-characters](https://github.com/anithaanitha7803/leetcode/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 ## Array
 |  |
 | ------- |
@@ -43,11 +44,13 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Counting
 |  |
 | ------- |
+| [1876-substrings-of-size-three-with-distinct-characters](https://github.com/anithaanitha7803/leetcode/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [3467-transform-array-by-parity](https://github.com/anithaanitha7803/leetcode/tree/master/3467-transform-array-by-parity) |
 ## Hash Table
 |  |
 | ------- |
 | [0160-intersection-of-two-linked-lists](https://github.com/anithaanitha7803/leetcode/tree/master/0160-intersection-of-two-linked-lists) |
+| [1876-substrings-of-size-three-with-distinct-characters](https://github.com/anithaanitha7803/leetcode/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 ## Linked List
 |  |
 | ------- |
@@ -91,6 +94,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0643-maximum-average-subarray-i](https://github.com/anithaanitha7803/leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/anithaanitha7803/leetcode/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
+| [1876-substrings-of-size-three-with-distinct-characters](https://github.com/anithaanitha7803/leetcode/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/anithaanitha7803/leetcode/tree/master/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 ## Bit Manipulation
 |  |
