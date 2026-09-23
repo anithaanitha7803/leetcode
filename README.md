@@ -116,12 +116,14 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0102-binary-tree-level-order-traversal](https://github.com/anithaanitha7803/leetcode/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/anithaanitha7803/leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/anithaanitha7803/leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
+| [1038-binary-search-tree-to-greater-sum-tree](https://github.com/anithaanitha7803/leetcode/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/anithaanitha7803/leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/anithaanitha7803/leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/anithaanitha7803/leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
+| [1038-binary-search-tree-to-greater-sum-tree](https://github.com/anithaanitha7803/leetcode/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -134,8 +136,10 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0102-binary-tree-level-order-traversal](https://github.com/anithaanitha7803/leetcode/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/anithaanitha7803/leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/anithaanitha7803/leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
+| [1038-binary-search-tree-to-greater-sum-tree](https://github.com/anithaanitha7803/leetcode/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
 ## Binary Search Tree
 |  |
 | ------- |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/anithaanitha7803/leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
+| [1038-binary-search-tree-to-greater-sum-tree](https://github.com/anithaanitha7803/leetcode/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
 <!---LeetCode Topics End-->
