@@ -12,6 +12,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0006-zigzag-conversion](https://github.com/anithaanitha7803/leetcode/tree/master/0006-zigzag-conversion) |
 | [0012-integer-to-roman](https://github.com/anithaanitha7803/leetcode/tree/master/0012-integer-to-roman) |
+| [0013-roman-to-integer](https://github.com/anithaanitha7803/leetcode/tree/master/0013-roman-to-integer) |
 | [0020-valid-parentheses](https://github.com/anithaanitha7803/leetcode/tree/master/0020-valid-parentheses) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/anithaanitha7803/leetcode/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/anithaanitha7803/leetcode/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
@@ -52,6 +53,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0012-integer-to-roman](https://github.com/anithaanitha7803/leetcode/tree/master/0012-integer-to-roman) |
+| [0013-roman-to-integer](https://github.com/anithaanitha7803/leetcode/tree/master/0013-roman-to-integer) |
 | [0160-intersection-of-two-linked-lists](https://github.com/anithaanitha7803/leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/anithaanitha7803/leetcode/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 ## Linked List
@@ -72,6 +74,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0012-integer-to-roman](https://github.com/anithaanitha7803/leetcode/tree/master/0012-integer-to-roman) |
+| [0013-roman-to-integer](https://github.com/anithaanitha7803/leetcode/tree/master/0013-roman-to-integer) |
 | [0050-powx-n](https://github.com/anithaanitha7803/leetcode/tree/master/0050-powx-n) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/anithaanitha7803/leetcode/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 ## Recursion
