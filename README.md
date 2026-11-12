@@ -6,6 +6,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Database
 |  |
 | ------- |
+| [0183-customers-who-never-order](https://github.com/anithaanitha7803/leetcode/tree/master/0183-customers-who-never-order) |
 | [1693-daily-leads-and-partners](https://github.com/anithaanitha7803/leetcode/tree/master/1693-daily-leads-and-partners) |
 ## String
 |  |
