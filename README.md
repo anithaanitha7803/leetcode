@@ -9,6 +9,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0183-customers-who-never-order](https://github.com/anithaanitha7803/leetcode/tree/master/0183-customers-who-never-order) |
 | [0184-department-highest-salary](https://github.com/anithaanitha7803/leetcode/tree/master/0184-department-highest-salary) |
 | [0185-department-top-three-salaries](https://github.com/anithaanitha7803/leetcode/tree/master/0185-department-top-three-salaries) |
+| [0196-delete-duplicate-emails](https://github.com/anithaanitha7803/leetcode/tree/master/0196-delete-duplicate-emails) |
 | [1693-daily-leads-and-partners](https://github.com/anithaanitha7803/leetcode/tree/master/1693-daily-leads-and-partners) |
 ## String
 |  |
